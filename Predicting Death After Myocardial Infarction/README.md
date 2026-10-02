@@ -1,4 +1,3 @@
----
 
 ## 1. Predicting Death After Myocardial Infarction
 
@@ -34,4 +33,3 @@ Elastic Net performed best among the penalized models, though only marginally be
 - **Leakage and reproducibility.** I'd impute inside each CV fold rather than on the full dataset, and set a random seed.
 - **Beyond AUC.** For clinical use I'd also report calibration and sensitivity at a clinically meaningful threshold.
 
----
