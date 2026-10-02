@@ -39,4 +39,4 @@ _[One to three sentences: the tweet sample and time window, the sentiment method
 
 **Michelle Carrizosa, M.S.**: M.S. Biostatistics, University of Illinois Chicago (2023); B.S. Mathematics, Cal Poly San Luis Obispo. Senior Product Analyst working on measurement, experimentation, retention, and LLM-based analytics.
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/michellecarrizosa) · [Email](mailto:mcarrizosa4@gmail.com)
